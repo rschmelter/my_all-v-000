@@ -11,5 +11,6 @@ def my_all?(collection)
       (false)
       false
     else
-      ture
+      true
+    end
 end
